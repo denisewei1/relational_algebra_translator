@@ -1,0 +1,6 @@
+D:\project\programming\programming_one\programming_one\bin\programming_one.dll
+D:\project\programming\programming_one\programming_one\bin\programming_one.pdb
+D:\project\programming\programming_one\programming_one\bin\MySql.Data.dll
+D:\project\programming\programming_one\programming_one\obj\Debug\ResolveAssemblyReference.cache
+D:\project\programming\programming_one\programming_one\obj\Debug\programming_one.dll
+D:\project\programming\programming_one\programming_one\obj\Debug\programming_one.pdb

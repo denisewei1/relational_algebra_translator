@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="D:\program\Build" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="images/menu_gif_04.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_02.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="bin/MySql.Data.dll" publishTime="12/08/2013 23:51:50" />
+    <file relUrl="images/left_ico_10.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/left_ico_18.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/left_ico_09.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/menu_gif_21.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_12.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="Web.config" publishTime="12/19/2013 21:31:11" />
+    <file relUrl="images/left_ico_17.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="bin/programming_one.dll" publishTime="12/19/2013 21:30:54" />
+    <file relUrl="images/menu_gif_08.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/left_ico_21.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/left_ico_29.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/menu_gif_10.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_18.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_06.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="bin/programming_one.pdb" publishTime="12/19/2013 21:30:53" />
+    <file relUrl="images/menu_gif_03.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="12/08/2013 23:48:18" />
+    <file relUrl="images/menu_gif_15.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/left_ico_26.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/menu_gif_19.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="Default.aspx" publishTime="12/19/2013 21:25:54" />
+    <file relUrl="MySql.Data.dll" publishTime="12/08/2013 23:51:50" />
+    <file relUrl="images/menu_gif_13.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_01.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_09.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/left_ico_34.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/left_ico_13.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/menu_gif_14.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_20.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/left_ico_33.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/menu_gif_16.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/rep_bg.gif" publishTime="12/09/2013 19:57:54" />
+    <file relUrl="images/left_ico_14.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/left_ico_05.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/menu_gif_11.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_07.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_22.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/left_ico_22.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/left_ico_03.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/menu_gif_17.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="images/menu_gif_05.gif" publishTime="12/09/2013 20:07:31" />
+    <file relUrl="Default1.aspx" publishTime="12/09/2013 21:39:33" />
+    <file relUrl="images/left_ico_30.gif" publishTime="12/09/2013 20:21:51" />
+    <file relUrl="images/left_ico_25.gif" publishTime="12/09/2013 20:21:51" />
+  </publishProfile>
+</publishData>
